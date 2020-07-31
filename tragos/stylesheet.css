@@ -1,24 +1,25 @@
 body{
     margin: 0cm;
     font-size: 150%;
-    background-color: black;
-    background-image: url(fondo.jpg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-color: white;
 }
 
 .nombre{
+    margin: 0px;
     text-align: center;
     background-color: rgb(116, 25,25);
     border: double 10px;
 }
 
 .menu{
+    width: 100%;
     text-align: center;
-    color: rgb(82, 76, 76);
-    background: rgba(0, 0, 0, 0);
+    color: black;
+    background-color: rgb(0, 0, 0,);
     font-size: 125%;
+}
+
+ul{
     position: fixed;
 }
 
@@ -36,14 +37,18 @@ a{
 }
 
 .carta{
-    background: rgba(0, 0, 0, 0);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 80% 100%;
+    background-image: url(fondo.jpg);
 }
 
 .producto{
     padding: 0px;
     margin-left: 25%;
     width: 60%;
-    background-color: white;
+    background: rgba(255, 255, 255, 0.7);
     margin-top: 5px;
     border-radius: 10px;
 }
@@ -62,9 +67,6 @@ img {
     margin-top: 0px;
 }
 
-.precio{
-
-}
 
 .menu, .carta, .descripcion{
     padding: 0px;
