@@ -12,26 +12,23 @@ body{
 }
 
 .menu{
-    width: 100%;
     text-align: center;
     color: black;
-    background-color: rgb(0, 0, 0,);
     font-size: 125%;
-}
-
-ul{
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
     position: fixed;
 }
 
-li{
-    border: solid 4px rgb(116, 25, 25);
-    border-radius: 40px;
-    margin: 3px;
-    background-color: rgb(116, 25, 25);
-    color: gray;
+p{
+    margin: 10px;
 }
 
-a{
+.boton{
+    margin: 10px;
+    border: solid 4px rgb(116, 25, 25);
+    border-radius: 40px;
+    background-color: rgb(116, 25, 25);
     color: rgb(10, 0, 0);
     text-decoration: none;
 }
