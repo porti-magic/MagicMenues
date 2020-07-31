@@ -1,0 +1,52 @@
+body{
+    background-color: gray;
+}
+
+.producto{
+    margin-left: 25%;
+    width: 40%;
+    background-color: white;
+    margin-top: 2px;
+    margin-right: 0%;
+    border-radius: 10px;
+}
+.descripcion{
+    text-align: center;
+}
+
+.menu, .descripcion{
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+img {
+    padding: 10px;
+    display: inline-block;
+    width: 20%;
+ }
+
+ .menu{
+     color: rgb(10, 0, 0);
+     background-color: gray;
+     font-size: 125%;
+     position: fixed;
+ }
+
+ li{
+     border: solid 4px rgb(116, 25, 25);
+     border-radius: 40px;
+     margin: 3px;
+     background-color: rgb(116, 25, 25);
+     color: gray;
+ }
+
+ a{
+     color: rgb(10, 0, 0);
+     text-decoration: none;
+ }
+
+ .nombre{
+     text-align: center;
+     background-color: rgb(116, 25,25);
+     border: double 10px;
+ }
