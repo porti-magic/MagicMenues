@@ -16,7 +16,7 @@ body{
     color: black;
     font-size: 125%;
     background: rgba(255, 255, 255, 0.7);
-    border-radius: 20px;
+    border-radius: 10px;
     position: fixed;
 }
 
@@ -27,7 +27,7 @@ p{
 .boton{
     margin: 10px;
     border: solid 4px rgb(116, 25, 25);
-    border-radius: 40px;
+    border-radius: 10px;
     background-color: rgb(116, 25, 25);
     color: rgb(10, 0, 0);
     text-decoration: none;
