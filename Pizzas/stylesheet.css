@@ -1,0 +1,70 @@
+body{
+    margin: 0cm;
+    font-size: 150%;
+}
+
+.nombre{
+    margin: 0px;
+    text-align: center;
+    background-color: rgb(116, 25,25);
+    border: double 10px;
+}
+
+.menu{
+    text-align: center;
+    color: black;
+    font-size: 125%;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    position: fixed;
+}
+
+p{
+    margin: 10px;
+}
+
+.boton{
+    margin: 10px;
+    border: solid 4px rgb(116, 25, 25);
+    border-radius: 40px;
+    background-color: rgb(116, 25, 25);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.carta{
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(fotos/fondo.jpg);
+    background-size: 100%;
+}
+
+.producto{
+    padding: 0px;
+    margin-left: 25%;
+    width: 60%;
+    background: rgba(255, 255, 255, 0.7);
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+img {
+    padding: 10px;
+    display: inline-block;
+    width: 20%;
+ }
+
+.descripcion{
+    text-align: center;
+}
+
+.plato{
+    margin-top: 0px;
+}
+
+
+.menu, .carta, .descripcion{
+    padding: 0px;
+    display: inline-block;
+}

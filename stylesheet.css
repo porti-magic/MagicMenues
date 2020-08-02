@@ -21,6 +21,9 @@ body{
     background: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
     position: fixed;
+    width: 100%;
+    padding: 10px;
+
 }
 
 p{
@@ -32,12 +35,6 @@ p{
     border: solid 4px rgb(116, 25, 25);
     border-radius: 40px;
     background-color: rgb(116, 25, 25);
-    color: rgb(10, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
-}
- 
- .menu{
-     width: 100%;
-    padding: 10px;
-    text-align: center;
 }
