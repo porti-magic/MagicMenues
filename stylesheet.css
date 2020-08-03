@@ -11,7 +11,7 @@ body{
 .nombre{
     text-align: center;
     background-color: rgb(116, 25,25);
-    border: double 10px;
+    border: ridge 10px;
 }
 
 .menu{
