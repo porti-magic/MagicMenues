@@ -21,7 +21,7 @@ body{
     color: black;
     background: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
-    size: 70%;
+    font-size: 70%;
     position: fixed;
 }
 
