@@ -19,7 +19,6 @@ body{
 .menu{
     text-align: center;
     color: black;
-    font-size: 125%;
     background: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
     position: fixed;
