@@ -10,8 +10,8 @@ body{
 
 .nombre{
     text-align: center;
-    background-color: rgb(116, 25,25);
-    border: ridge 10px;
+    background-color: rgb(177, 18, 18);
+    border: inset 7px rgb(177, 18, 18);
 }
 
 .menu{
@@ -32,9 +32,9 @@ p{
 
 .boton{
     margin: 10px;
-    border: solid 4px rgb(116, 25, 25);
+    border: solid 4px rgb(177, 18, 18);
     border-radius: 40px;
-    background-color: rgb(116, 25, 25);
-    color: rgb(255, 255, 255);
+    background-color: rgb(177, 18, 18);
+    color: black;
     text-decoration: none;
 }
