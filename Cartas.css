@@ -17,7 +17,7 @@ body{
 }
 
 .menu{
-    font-size: 150%;
+    font-size: 200%;
     text-align: center;
     color: black;
     background: rgba(255, 255, 255, 0.7);
@@ -43,20 +43,22 @@ p{
 }
 
 .carta{
-    margin-left: 15%;
+    font-size: 150%;
+    position: relative;
+    left: 25%;
     width: 70%;
 }
 
 .titulo{
     background: rgba(39, 185, 161, 1);
     text-align: center;
-    margin: 5px 0px 0px 15%;
+    margin: 5px 0px 0px 0px;
     border-radius: 10px;
     width: 100%;
 }
 
 .producto{
-    margin-left: 15%;
+    /*margin-left: 15%;*/
     width: 100%;
     background: rgba(255, 255, 255, 0.7);
     margin-top: 5px;
