@@ -1,6 +1,5 @@
 body{
     background-position: right;
-    background-repeat: no-repeat;
     background-attachment: fixed;
     background-image: url(https://porti-magic.github.io/MagicMenues/fondo.jpg);
     background-size: 100%;
@@ -12,12 +11,13 @@ body{
 .nombre{
     margin: 5px;
     text-align: center;
-    background-color: rgb(177, 18,18);
-    border: inset 7px rgb(177, 18, 18);
+    background-color: rgb(39, 185, 161);
+    border: inset 7px rgb(39, 185, 161);
     border-radius: 10px;
 }
 
 .menu{
+    font-size: 150%;
     text-align: center;
     color: black;
     background: rgba(255, 255, 255, 0.7);
@@ -35,8 +35,8 @@ p{
 
 .boton{
     margin: 10px;
-    background-color: rgb(177, 18,18);
-    border: inset 5px rgb(177, 18, 18);
+    background-color: rgb(39, 185, 161);
+    border: inset 5px rgb(39, 185, 161);
     border-radius: 10px;
     color: black;
     text-decoration: none;
@@ -48,7 +48,7 @@ p{
 }
 
 .titulo{
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(39, 185, 161, 1);
     text-align: center;
     margin: 5px 0px 0px 15%;
     border-radius: 10px;

@@ -4,14 +4,13 @@ body{
     background-color: white;
     background-image: url(fondo.jpg);
     background-size: 100% 100%;
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 .nombre{
     text-align: center;
-    background-color: rgb(177, 18, 18);
-    border: inset 7px rgb(177, 18, 18);
+    background-color: rgb(39, 185, 161);
+    border: inset 7px rgb(39, 185, 161);
 }
 
 .menu{
@@ -32,9 +31,9 @@ p{
 
 .boton{
     margin: 10px;
-    border: solid 4px rgb(177, 18, 18);
+    border: inset 5px rgb(39, 185, 161);
     border-radius: 40px;
-    background-color: rgb(177, 18, 18);
+    background-color: rgb(39, 185, 161);
     color: black;
     text-decoration: none;
 }
