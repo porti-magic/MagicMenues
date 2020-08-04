@@ -5,7 +5,8 @@ body{
     background-image: url(https://porti-magic.github.io/MagicMenues/fondo.jpg);
     background-size: 100%;
     margin: 5px 0px 0px;
-    font-size: 150%;
+    background-color: gray;
+
 }
 
 .nombre{
@@ -42,7 +43,6 @@ p{
 }
 
 .carta{
-    font-size: 70%;
     margin-left: 15%;
     width: 70%;
 }
