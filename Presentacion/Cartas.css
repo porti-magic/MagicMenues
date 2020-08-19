@@ -1,0 +1,95 @@
+body{
+    background-position: right;
+    background-attachment: fixed;
+    background-image: url(https://porti-magic.github.io/MagicMenues/fondo.jpg);
+    background-size: 100%;
+    margin: 5px 0px 0px;
+    background-color: gray;
+
+}
+
+.nombre{
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(39, 185, 161);
+    border: inset 7px rgb(39, 185, 161);
+    border-radius: 10px;
+}
+
+.menu{
+    font-size: 150%;
+    text-align: center;
+    color: black;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    position: fixed;
+}
+
+h4{
+    margin: 15px;
+}
+
+p{
+    margin: 15px;
+}
+
+.boton{
+    margin: 10px;
+    background-color: rgb(39, 185, 161);
+    border: inset 5px rgb(39, 185, 161);
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.carta{
+    font-size: 125%;
+    position: relative;
+    left: 25%;
+    width: 70%;
+}
+
+.titulo{
+    background: rgba(39, 185, 161, 1);
+    text-align: center;
+    margin: 5px 0px 0px 0px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.producto{
+    /*margin-left: 15%;*/
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+/*img {
+    padding: 10px;
+    display: inline-block;
+    height: 120px;
+    width: 120px;
+    image-resolution: 720, 720;
+ }*/
+
+.descripcion{
+    width: 200%;
+    text-align: left;
+}
+
+.plato{
+    margin-top: 0px;
+    display: inline-block;
+}
+
+.precio{
+   position: absolute;
+   right: 200px;
+    display: inline-block;
+}
+
+.menu, .carta, .descripcion{
+    padding: 0px;
+    display: inline-block;
+}
